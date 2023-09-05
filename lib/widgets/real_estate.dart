@@ -14,6 +14,7 @@ class RealEstateItem extends StatelessWidget {
     return Container(
       margin: const EdgeInsets.symmetric(vertical: 20.0),
       child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           Stack(
             children: [
