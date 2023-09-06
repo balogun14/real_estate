@@ -54,8 +54,9 @@ const TextTheme textThemeSmall = TextTheme(
         height: 1.5),
     bodyMedium: TextStyle(
         color: colorGrey,
-        fontSize: 12,
+        fontSize: 14,
         fontWeight: FontWeight.w500,
+        wordSpacing: 5.5,
         height: 1.5),
     titleMedium:
         TextStyle(color: colorBlack, fontSize: 10, fontWeight: FontWeight.w400),
